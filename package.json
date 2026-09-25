@@ -26,6 +26,6 @@
     "figlet": "^1.11.4",
     "marked": "^18.0.14",
     "marked-terminal": "^7.3.0",
-    "telegraph": "^0.8.22"
+    "telegraf": "^4.16.3"
   }
 }
